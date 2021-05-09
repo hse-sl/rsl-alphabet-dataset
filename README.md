@@ -39,6 +39,11 @@ The dataset contains images that represent following Russian letters:
 * 019 - Model M3
 
 ## TERMS / COPYRIGHT
+
+Copyright 2021 Nikolay Veld
+
 This databset is provided for research purposes (for non-commercial use only). It cannot be sold. Publications that include results obtained with this database should reference the following page:
 
 https://github.com/hse-sl/rsl-alphabet-dataset
+or
+https://github.com/NickVeld/rsl-alphabet-dataset
